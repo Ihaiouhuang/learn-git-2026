@@ -1,17 +1,17 @@
 ## 项目文件列表
-- [HW_CopyHtmlPages.html](/HW_CopyHtmlPages.html)
+- [HW_CopyHtmlPages.html](https://ihaiouhuang.github.io/learn-git-2026/HW_CopyHtmlPages.html)
     - new HW-CopyHtmlPages.html file
-- [HW_CopyHtmlPages_copy.html](/HW_CopyHtmlPages_copy.html)
+- [HW_CopyHtmlPages_copy.html](https://ihaiouhuang.github.io/learn-git-2026/HW_CopyHtmlPages_copy.html)
     - two html file copy from Zen-Garden
-- [README.md](/README.md)
+- [README.md](https://ihaiouhuang.github.io/learn-git-2026/README.md)
     - Update README file for the first time
-- [a.docx](/a.docx)
+- [a.docx](https://ihaiouhuang.github.io/learn-git-2026/a.docx)
     - git text for first time
-- [baidu.html](/baidu.html)
+- [baidu.html](https://ihaiouhuang.github.io/learn-git-2026/baidu.html)
     - download page for baidu
-- [cmdBase.md](/cmdBase.md)
+- [cmdBase.md](https://ihaiouhuang.github.io/learn-git-2026/cmdBase.md)
     - push cmdBase file & practise cmd
-- [gitBase.md](/gitBase.md)
+- [gitBase.md](https://ihaiouhuang.github.io/learn-git-2026/gitBase.md)
     - test for git & practice for git
-- [hello.html](/hello.html)
+- [hello.html](https://ihaiouhuang.github.io/learn-git-2026/hello.html)
     - git text for first time
