@@ -1,18 +1,17 @@
-# .DS_Store
-    * new HW-CopyHtmlPages.html file
-# HW_CopyHtmlPages.html
-    * new HW-CopyHtmlPages.html file
-# HW_CopyHtmlPages_copy.html
-    * two html file copy form Zen-Garden
-# README.md
-    * git text for first time
-# a.docx
-    * git text for first time
-# baidu.html
-    * download page for baidu
-# cmdBase.md
-    * push cmdBase file & practise cmd
-# gitBase.md
-    * test for git & practice for git
-# hello.html
-    * git text for first time
+## 项目文件列表
+- [HW_CopyHtmlPages.html](/HW_CopyHtmlPages.html)
+    - new HW-CopyHtmlPages.html file
+- [HW_CopyHtmlPages_copy.html](/HW_CopyHtmlPages_copy.html)
+    - two html file copy from Zen-Garden
+- [README.md](/README.md)
+    - Update README file for the first time
+- [a.docx](/a.docx)
+    - git text for first time
+- [baidu.html](/baidu.html)
+    - download page for baidu
+- [cmdBase.md](/cmdBase.md)
+    - push cmdBase file & practise cmd
+- [gitBase.md](/gitBase.md)
+    - test for git & practice for git
+- [hello.html](/hello.html)
+    - git text for first time
